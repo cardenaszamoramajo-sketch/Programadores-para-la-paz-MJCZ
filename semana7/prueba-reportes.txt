@@ -1,0 +1,1 @@
+Cuando se consulta la ruta GET /reportes, el servidor devuelve todos los reportes almacenados en memoria. Inicialmente la respuesta es un arreglo vacío ([]). Después de registrar reportes mediante la ruta POST /reportes, estos aparecen en la lista con su id, tipo y descripción.
