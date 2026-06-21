@@ -1,0 +1,3 @@
+1. Gestionar adecuadamente las credenciales de acceso.
+2. Realizar copias de seguridad del sistema.
+3. Configurar permisos según el rol de cada usuario.

@@ -1,0 +1,5 @@
+Verificar la identidad de los usuarios.
+Actualizar el sistema regularmente.
+Restringir permisos administrativos.
+Revisar logs del sistema.
+Validar entradas de datos.
