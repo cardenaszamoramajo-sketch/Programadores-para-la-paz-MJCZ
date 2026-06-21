@@ -1,0 +1,7 @@
+Cuando ejecutas *node server.js*, el servidor se inicia y comienza a funcionar en la terminal, quedando activo para recibir solicitudes.
+
+En la terminal aparece el mensaje: *“Servidor activo y funcionando”*.
+
+Cuando visitas la ruta */estado*, el servidor responde con un mensaje en formato JSON que muestra el estado del sistema, por ejemplo:
+{ "estado": "Servidor funcionando", "servicio": "API comunitaria" }
+Esto indica que el servidor está en funcionamiento correcto y respondiendo a las solicitudes.
