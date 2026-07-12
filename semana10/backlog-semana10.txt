@@ -1,0 +1,9 @@
+1. Como líder comunitario quiero visualizar un resumen de las solicitudes pendientes para priorizar las acciones más urgentes.
+
+2. Como ciudadano quiero adjuntar fotografías a mi reporte para aportar evidencia de la situación. 
+
+3. Como supervisor de la veeduría quiero asignar cada caso a un responsable para asegurar su atención y seguimiento. 
+
+4. Como integrante de la comunidad quiero recibir una confirmación cuando mi reporte sea registrado para saber que fue recibido correctamente. 
+
+5. Como administrador quiero generar un informe con las solicitudes atendidas para evaluar el desempeño del proceso.

@@ -1,0 +1,7 @@
+Evento: Se actualiza el estado de una solicitud a "Pendiente de revisión".
+
+Acción: n8n envía una notificación al grupo de Telegram.
+
+Mensaje: "Hay una solicitud pendiente de revisión. Ingresa al sistema para gestionarla."
+
+Información que no debe enviarse: contraseñas, claves de acceso, números de documento, direcciones, teléfonos ni otra información personal o sensible.

@@ -1,0 +1,13 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+- Enviar una confirmación cuando se registre un reporte.
+- Asignar cada caso a un responsable.
+
+2. ¿Por qué son las más importantes?
+- Porque el ciudadano sabe que su reporte fue recibido y cada caso tendrá alguien encargado de atenderlo.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+Una tarea está terminada cuando:
+
+- Cumple lo que debía hacer.
+- No tiene errores.
+- Está subida al repositorio de Git.
