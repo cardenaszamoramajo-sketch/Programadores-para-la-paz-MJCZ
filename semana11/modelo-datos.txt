@@ -1,0 +1,25 @@
+Entidad: Reporte
+
+Campos principales:
+
+- id
+- asunto
+- descripción
+- estado
+- fecha
+
+Propósito:
+Guardar la información de los reportes realizados por la comunidad para darles seguimiento.
+
+Entidad: Responsable
+
+Campos principales:
+
+- id
+- nombre
+- correo
+- cargo
+
+Propósito:
+Registrar la persona encargada de atender cada reporte y hacer seguimiento a su gestión.
+
