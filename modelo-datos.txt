@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos:
+
+id
+titulo
+descripcion
+fecha
+
+¿Para qué sirve?
+Permite almacenar la información de cada causa comunitaria que se publica en la plataforma para que las personas puedan conocerla y apoyarla.
+
+Entidad: Apoyo
+
+Campos:
+
+id
+causa_id
+nombre
+fecha
+
+¿Para qué sirve?
+Permite registrar los apoyos que recibe cada causa, indicando quién la apoyó y la fecha en que se realizó el apoyo.

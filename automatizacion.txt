@@ -1,0 +1,5 @@
+Evento: Un usuario registra un nuevo apoyo a una causa.
+
+Mensaje: "Se recibió un nuevo apoyo para una causa comunitaria. Revisa la plataforma para ver los detalles."
+
+Información que no debe enviarse: Contraseñas, números de documento, direcciones, teléfonos, correos electrónicos, tokens o cualquier otro dato personal o sensible de los usuarios.
